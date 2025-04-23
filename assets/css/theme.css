@@ -1,0 +1,47 @@
+@theme {
+    --font-body: Inter, sans-serif;
+    --font-sans: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+    --color-red-50: oklch(0.971 0.013 17.38);
+
+    --container-8xl: 96rem;
+
+    --breakpoint-300: 300px;
+    --breakpoint-350: 350px;
+    --breakpoint-400: 400px;
+    --breakpoint-450: 450px;
+    --breakpoint-500: 500px;
+    --breakpoint-550: 550px;
+    --breakpoint-600: 600px;
+    --breakpoint-650: 650px;
+    --breakpoint-700: 700px;
+    --breakpoint-750: 750px;
+    --breakpoint-800: 800px;
+    --breakpoint-850: 850px;
+    --breakpoint-900: 900px;
+    --breakpoint-950: 950px;
+    --breakpoint-1000: 1000px;
+    --breakpoint-1050: 1050px;
+    --breakpoint-1100: 1100px;
+    --breakpoint-1150: 1150px;
+    --breakpoint-1200: 1200px;
+    --breakpoint-1250: 1250px;
+    --breakpoint-1300: 1300px;
+    --breakpoint-1350: 1350px;
+    --breakpoint-1400: 1400px;
+    --breakpoint-1450: 1450px;
+    --breakpoint-1500: 1500px;
+    --breakpoint-1550: 1550px;
+    --breakpoint-1600: 1600px;
+    --breakpoint-1650: 1650px;
+    --breakpoint-1700: 1700px;
+    --breakpoint-1750: 1750px;
+    --breakpoint-1800: 1800px;
+
+    --text-18: 18px;
+    --text-20: 20px;
+    --text-22: 22px;
+    --text-24: 24px;
+    --text-28: 28px;
+    --text-32: 32px;
+}
