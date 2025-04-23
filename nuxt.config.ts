@@ -11,4 +11,8 @@ export default defineNuxtConfig({
       tailwindcss()
     ]
   },
+  icon: {
+    provider: 'iconify',
+    mode: 'svg',
+  }
 });
