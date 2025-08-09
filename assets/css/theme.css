@@ -45,3 +45,10 @@
     --text-28: 28px;
     --text-32: 32px;
 }
+
+@layer components {
+    .my-container {
+        width: 90%;
+        margin: 0 auto;
+    }
+}
