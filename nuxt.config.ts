@@ -5,7 +5,7 @@ export default defineNuxtConfig({
   compatibilityDate: '2024-11-01',
   devtools: { enabled: true },
   css: ['~/assets/css/main.css'],
-  modules: ['@nuxt/icon', '@nuxt/image'],
+  modules: ['@nuxt/icon', '@nuxt/image', '@nuxt/ui'],
   vite: {
     plugins: [
       tailwindcss()
@@ -14,5 +14,8 @@ export default defineNuxtConfig({
   icon: {
     provider: 'iconify',
     mode: 'svg',
+  },
+  ui: {
+    colorMode: false,
   }
 });
